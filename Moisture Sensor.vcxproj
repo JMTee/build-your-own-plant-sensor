@@ -75,6 +75,12 @@
     <ProjectCapability Include="VisualMicro" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="exercise_1.ino">
+      <FileType>CppCode</FileType>
+    </None>
+    <None Include="exercise_1_done.ino">
+      <FileType>CppCode</FileType>
+    </None>
     <None Include="Moisture Sensor.ino">
       <FileType>CppCode</FileType>
     </None>

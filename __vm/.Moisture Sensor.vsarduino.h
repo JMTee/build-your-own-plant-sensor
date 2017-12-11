@@ -108,5 +108,7 @@ typedef long __PTRDIFF_TYPE__;
 #define noInterrupts() cli()
 
 #include "Moisture Sensor.ino"
+#include "exercise_1.ino"
+#include "exercise_1_done.ino"
 #endif
 #endif

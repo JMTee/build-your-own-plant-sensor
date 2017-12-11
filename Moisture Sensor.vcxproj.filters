@@ -13,9 +13,18 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="exercise1">
+      <UniqueIdentifier>{335a5e0d-faae-42a9-a638-91bf8e4b6271}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="Moisture Sensor.ino" />
+    <None Include="exercise_1.ino">
+      <Filter>exercise1</Filter>
+    </None>
+    <None Include="exercise_1_done.ino">
+      <Filter>exercise1</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.Moisture Sensor.vsarduino.h">
